@@ -78,8 +78,7 @@ session_start();
 
           <li><a href="calls_today.php">No of calls made today</a></li>
 
-          <li><a href="verification.php">Verification</a></li>  
-		
+     
 		<li><a href="heavyday.php">Heavyday</a></li> 
         
 		<li><a href="heavytime.php">Heavytime</a></li>
